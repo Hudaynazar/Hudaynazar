@@ -1,6 +1,6 @@
 <h1>Hi There, I'm Hudaynazar <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
-I'm a **Backend Developer** at [Uskotech](https://uskotech.com/). 
+I'm a **Backend Developer**. 
 
 Currently learning advanced backend concepts and exploring cyber security!
 
