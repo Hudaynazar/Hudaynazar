@@ -142,7 +142,7 @@ These are some of the major technologies that I use or have worked on in the pas
       </a>
     </td>
      <td align="center" width="96">
-      <a href="https://linkedin.com/in/hudaynazar" target="blank">
+      <a href="https://linkedin.com/in/hudaynazar işkabulov" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hudaynazar" height="30" width="40" />
       </a>
     </td>
