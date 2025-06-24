@@ -87,7 +87,7 @@ These are some of the major technologies that I use or have worked on in the pas
 <a href="https://wa.me/+905447722293" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-icon.svg" alt="whatsapp" width="40" height="40"/>
 </a>
-(https://wallpapercave.com/w/wp10318702
+(https://wallpapercave.com/w/wp10318702)
 
 <h1 align="center">Hi 👋, I'm Nazar</h1>
 <h3 align="center">I'm a Backend Developer.</h3>
@@ -104,4 +104,3 @@ These are some of the major technologies that I use or have worked on in the pas
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hudaynazar&show_icons=true&locale=en" alt="hudaynazar" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hudaynazar&" alt="hudaynazar" /></p>
-)
