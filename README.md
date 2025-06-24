@@ -12,30 +12,23 @@ These are some of the major technologies that I use or have worked on in the pas
 <table>
   <tr>
     <td align="center" width="96">
-       <a href=> 
+       <a href=""> 
          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
        </a> 
       <br>C
     </td>
-    
     <td align="center" width="96">
        <a href=""> 
          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
        </a> 
       <br>C++
     </td>
-
     <td align="center" width="96">
        <a href=""> 
          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
        </a>
       <br>C#
     </td>
-  </tr>
-</table>
-<table>
-  <tr>
-    
   </tr>
 </table>
 
