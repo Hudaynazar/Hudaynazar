@@ -41,14 +41,12 @@ These are some of the major technologies that I use or have worked on in the pas
       </a>
       <br>Firebase
     </td>
-    
     <td align="center" width="96">
       <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
         <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> 
       </a> 
       <br>MsSQL
     </td>
-
     <td align="center" width="96">
         <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
@@ -62,7 +60,6 @@ These are some of the major technologies that I use or have worked on in the pas
          </a>
       <br>SQLite
     </td>
-
     <td align="center" width="96">
          <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
@@ -83,9 +80,7 @@ These are some of the major technologies that I use or have worked on in the pas
     </td>
   </tr>
 </table>
-
 <br>
-
 ## 🤝 Let's Connect
 
 <a href="https://www.instagram.com/ishkabulov_h/" target="_blank" rel="noreferrer">
