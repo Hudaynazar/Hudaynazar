@@ -84,6 +84,6 @@ These are some of the major technologies that I use or have worked on in the pas
 <a href="https://www.instagram.com/ishkabulov_h/" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="instagram" width="40" height="40"/>
 </a>
-<a href="https://www.web.whatsapp.com/+905447722293/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-icon.svg" alt="instagram" width="40" height="40"/>
+<a href="https://wa.me/+905447722293" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-icon.svg" alt="whatsapp" width="40" height="40"/>
 </a>
