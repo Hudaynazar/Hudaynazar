@@ -1,14 +1,9 @@
 <h1>Hi There, I'm Hudaynazar <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
-
 I'm a **Backend Developer** at [Uskotech](https://uskotech.com/).  
 Currently learning advanced backend concepts and exploring cyber security!
-
 ## 💪 Skill Set
-
 These are some of the major technologies that I use or have worked on in the past:
-
 **Programming Languages**
-
 <table>
   <tr>
     <td align="center" width="96">
@@ -31,7 +26,6 @@ These are some of the major technologies that I use or have worked on in the pas
     </td>
   </tr>
 </table>
-
 **Databases**
 <table>
   <tr>
@@ -53,7 +47,6 @@ These are some of the major technologies that I use or have worked on in the pas
         </a>
       <br>MySQL
     </td>
-
     <td align="center" width="96">
          <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> 
            <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> 
@@ -68,7 +61,6 @@ These are some of the major technologies that I use or have worked on in the pas
     </td>
   </tr>
 </table>
-
 **Game Development**
 <table>
   <tr>
@@ -82,7 +74,6 @@ These are some of the major technologies that I use or have worked on in the pas
 </table>
 <br>
 ## 🤝 Let's Connect
-
 <a href="https://www.instagram.com/ishkabulov_h/" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="instagram" width="40" height="40"/>
 </a>
