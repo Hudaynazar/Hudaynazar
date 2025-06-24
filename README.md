@@ -80,7 +80,7 @@ These are some of the major technologies that I use or have worked on in the pas
 </table>
 <br>
 
-## 🤝 Let's Connect
+## 🤝 Let's Contact
 <a href="https://www.instagram.com/ishkabulov_h/" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="instagram" width="40" height="40"/>
 </a>
